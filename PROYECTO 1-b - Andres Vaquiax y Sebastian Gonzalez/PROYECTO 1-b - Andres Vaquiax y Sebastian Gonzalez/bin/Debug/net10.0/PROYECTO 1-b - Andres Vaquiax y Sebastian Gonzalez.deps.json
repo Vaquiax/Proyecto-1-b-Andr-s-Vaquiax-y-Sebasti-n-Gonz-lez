@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "PROYECTO 1-b - Andres Vaquiax y Sebastian Gonzalez/1.0.0": {
+        "runtime": {
+          "PROYECTO 1-b - Andres Vaquiax y Sebastian Gonzalez.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PROYECTO 1-b - Andres Vaquiax y Sebastian Gonzalez/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
